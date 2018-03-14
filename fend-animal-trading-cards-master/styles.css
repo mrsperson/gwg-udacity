@@ -1,0 +1,27 @@
+body {
+  border: 1px solid #ddd;
+  width: 450px;
+  box-shadow: 8px 8px #e8e8e8;
+  border-radius: 3px
+  padding: 20px;
+}
+#info {
+  border: 1px solid #ddd;
+  /* width: 330px; */
+  padding: 20px;
+}
+#fact {
+  font-style: italic;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+span {
+  font-weight: bold;
+}
+img {
+  width: 450px;
+  padding-bottom: 10px;
+}
