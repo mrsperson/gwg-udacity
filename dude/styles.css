@@ -1,0 +1,50 @@
+body {
+  cursor:none;
+}
+
+.red {
+  height: 15px;
+  background-color: #ff0000;
+}
+.orange {
+  height: 15px;
+  background-color: #ff6600;
+}
+.yellow {
+  height: 15px;
+  background-color: #ffff00;
+}
+.green {
+  height: 15px;
+  background-color: #00cc00;
+}
+.blue {
+  height: 15px;
+  background-color: #3300ff;
+}
+.indigo {
+  height: 15px;
+  background-color: #330066;
+}
+.violet {
+  height: 15px;
+  background-color: #660099;
+}
+.black {
+  height: 15px;
+  background-color: #000000;
+}
+div:hover{
+  background-color: #ffffff;
+}
+
+.column {
+    float: left;
+    width: 15px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
