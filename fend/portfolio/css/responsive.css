@@ -13,3 +13,11 @@
     font-size: 24px;
   }
 }
+
+@media screen and (min-width:1300px) {
+  body {
+    width:1300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
