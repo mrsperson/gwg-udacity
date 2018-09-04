@@ -1,0 +1,15 @@
+@media screen and (max-width:990px) {
+  .blockstyle {
+    width:50%;
+  }
+
+}
+
+@media screen and (max-width:690px) {
+  .blockstyle {
+    width:100%;
+  }
+  .blocktext {
+    font-size: 24px;
+  }
+}
