@@ -43,6 +43,7 @@ body {
 .featured_title {
   position: relative;
   text-align: center;
+  font-size: 32px;
 }
 
 .featured_blocks {
