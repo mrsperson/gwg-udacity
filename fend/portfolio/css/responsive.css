@@ -2,13 +2,16 @@
   .blockstyle {
     width:50%;
   }
-
+  .featured_right {
+    width: 100%;
+  }
 }
 
 @media screen and (max-width:690px) {
   .blockstyle {
     width:100%;
   }
+
   .blocktext {
     font-size: 24px;
   }
