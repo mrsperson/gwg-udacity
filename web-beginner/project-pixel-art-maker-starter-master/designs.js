@@ -1,10 +1,10 @@
 // variables
-var sizePicker = document.getElementById('sizePicker')
-var height = document.getElementById('inputHeight')
-var width = document.getElementById('inputWidth')
-var color = document.getElementById('colorPicker')
-var canvas = document.getElementById('pixelCanvas')
-var clear = document.getElementById("clearButton")
+const sizePicker = document.getElementById('sizePicker')
+let height = document.getElementById('inputHeight')
+let width = document.getElementById('inputWidth')
+let color = document.getElementById('colorPicker')
+const canvas = document.getElementById('pixelCanvas')
+// var clear = document.getElementById("clearButton")
 
 makeGrid();
 
